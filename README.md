@@ -1,5 +1,7 @@
 # vdraw
 
+Canvas element controller for vue.js
+
 ## Project setup
 ```
 npm install
